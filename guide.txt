@@ -1,0 +1,1 @@
+To see the public ssh key, use this command: cat ~/.ssh/id_rsa.pub
